@@ -2,6 +2,18 @@
 
 This project is a **Discord bot** designed to send direct messages (DMs) to all members of a selected server. The bot is built using the [Discord.js](https://discord.js.org/) library and provides an easy-to-use console interface for managing servers, selecting recipients, and sending messages.
 
+Originally created by [Unknown](https://github.com/sayonaratv)
+
+## Disclaimer
+This program is designed for educational purposes only. When using this script or any similar tools, please adhere to the following guidelines:
+
+- Do not spam: Avoid sending mass direct messages to users without their consent. This can be considered spam and is against Discord's Terms of Service.
+- Respect privacy: Do not use the script to gather personal information or harass users.
+- Follow Discord's policies: Ensure that your use of the script complies with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
+- Use responsibly: Only use the script in environments where you have explicit permission to do so.
+
+Failure to follow these guidelines could result in your account or bot being restricted or banned by Discord.
+
 ## Features
 
 - **Server Selection**: Lists all the servers the bot is a part of, allowing the user to select one.
