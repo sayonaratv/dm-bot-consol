@@ -1,4 +1,4 @@
-# DMall Bot
+# DMall Bot v2
 
 Originally created by [Unknown](https://github.com/sayonaratv)
 
